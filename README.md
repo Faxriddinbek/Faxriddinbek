@@ -1,11 +1,11 @@
 <!-- ==================== HEADER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3776AB&height=200&section=header&text=Python%20Backend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Django%20•%20DRF%20•%20FastAPI%20•%20gRPC&descSize=18&descAlignY=55" alt="header" />
 
-<h1 align="center">Hi there 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi there 👋, I'm FAXRIDDINBEK</h1>
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/FAXRIDDINBEK">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%F0%9F%90%8D;Django+%7C+DRF+%7C+FastAPI+%7C+gRPC;Building+scalable+REST+%26+gRPC+APIs;Clean+code+enthusiast+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
@@ -13,8 +13,8 @@
 <!-- Profile views & followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=3776AB&style=flat" alt="profile views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=3776AB" alt="GitHub followers" />
+  <a href="https://github.com/FAXRIDDINBEK?tab=followers">
+    <img src="https://img.shields.io/github/followers/FAXRIDDINBEK?label=Followers&style=flat&color=3776AB" alt="GitHub followers" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 ```python
 class BackendDeveloper:
     def __init__(self):
-        self.name = "YOUR_NAME"
+        self.name = "FAXRIDDINBEK"
         self.role = "Python Backend Developer"
         self.location = "Tashkent, Uzbekistan 🇺🇿"
         self.languages = ["Python", "SQL"]
@@ -97,15 +97,15 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=FAXRIDDINBEK&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAXRIDDINBEK&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FAXRIDDINBEK&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 </p>
 
 ---
@@ -121,16 +121,16 @@ me.say_hi()
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/@XXXacer_004" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/in/faxriddin-orinboyev-418961299/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:faxriddinorinboyev12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
+  <a href="https://leetcode.com/u/037EGZJLqC/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
