@@ -44,7 +44,7 @@ me.say_hi()
 - 🌱 I'm currently learning **system design & microservices architecture**
 - 👯 I'm open to collaborating on **open-source Python projects**
 - 💬 Ask me about **Python, Django, DRF, FastAPI, gRPC**
-- 📫 How to reach me: **your.email@gmail.com**
+- 📫 How to reach me: **faxriddinorinboyev12@gmail.com**
 - ⚡ Fun fact: **I turn coffee into APIs ☕ → ⚙️**
 
 ---
