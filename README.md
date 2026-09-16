@@ -137,3 +137,13 @@ me.say_hi()
 
 <!-- ==================== FOOTER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:1a1b27&height=120&section=footer" alt="footer" />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Faxriddinbek/Faxriddinbek/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Faxriddinbek/Faxriddinbek/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Faxriddinbek/Faxriddinbek/output/github-snake.svg" />
+  </picture>
+</p>
